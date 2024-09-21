@@ -1,7 +1,7 @@
 /*Colors and fonts*/
 body {
   color: rgb(40, 40, 40);
-  background-color: rgb(230, 230, 230);
+  background-color: #f0d7d7;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   font-size: 16px;
@@ -16,5 +16,10 @@ h2 {
   font-size: 24px;
   font-weight: bolder;
   font-family: Arial, Helvetica, sans-serif;
-  color: red;
+  color:#C6698D;
+}
+a {
+  color:#C6698D;
+  text-decoration: none;
+  font-weight: bold;
 }
