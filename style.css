@@ -10,7 +10,7 @@ body {
   font-style: normal;
   font-variation-settings: "wdth" 100;
   color: rgb(100, 100, 100);
-  background-color: #f0d7d7;
+  background-color: #F8F8F8;
   text-align: center;
 }
 
@@ -55,4 +55,16 @@ a {
 }
 .footer .fa-heart {
   color: #D23333;
+}
+img {
+  border-radius: 40%;
+}
+
+div {
+  margin: 20px auto;
+  background-color: #F0D7D6;
+  padding: 32px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  width: 80%;
 }
